@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch
+shap
+numpy
+pandas
